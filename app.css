@@ -10,3 +10,7 @@ input {
   text-align: center;
   padding: 5px 7px;
 }
+
+div {
+  border-radius: 3px;
+}
